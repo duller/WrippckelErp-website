@@ -9,7 +9,7 @@ class DatabaseConnexion {
    
    private function __construct() 
    {
-        $this->db = MDB2::connect('mysql://root:root@localhost/librairieOurs');
+        $this->db = MDB2::connect('mysql://root:root@localhost/easyerpdb');
 
         if (MDB2::isError($this->db)) 
         {

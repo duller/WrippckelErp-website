@@ -10,7 +10,7 @@ $smarty->compile_dir = 'templates_c/';
 $smarty->config_dir = 'configs/';
 $smarty->cache_dir = 'cache/';
 
-$smarty->assign("nom","Librairie de l'Ours");
+$smarty->assign("nom","Easy ERP Web");
 
 if(isset($_GET["Page"]) && is_file("templates/".$_GET["Page"].".tpl"))
 {

@@ -1,4 +1,25 @@
-﻿<!-- David Winckel et François Ripp -->
+<?php /* Smarty version Smarty-3.1.7, created on 2012-11-09 09:24:58
+         compiled from "templates/mentionslegales.tpl" */ ?>
+<?php /*%%SmartyHeaderCode:1947171503509cbdda99c567-34412714%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+$_valid = $_smarty_tpl->decodeProperties(array (
+  'file_dependency' => 
+  array (
+    '494b95f1af5b09bc3d7e979c98165929202360fe' => 
+    array (
+      0 => 'templates/mentionslegales.tpl',
+      1 => 1352364965,
+      2 => 'file',
+    ),
+  ),
+  'nocache_hash' => '1947171503509cbdda99c567-34412714',
+  'function' => 
+  array (
+  ),
+  'has_nocache_code' => false,
+  'version' => 'Smarty-3.1.7',
+  'unifunc' => 'content_509cbdda9b841',
+),false); /*/%%SmartyHeaderCode%%*/?>
+<?php if ($_valid && !is_callable('content_509cbdda9b841')) {function content_509cbdda9b841($_smarty_tpl) {?>﻿<!-- David Winckel et François Ripp -->
 <h1>Mentions légales</h1>
 <h2>Informations légales</h2>
 <h3>1. Présentation du site.</h3>
@@ -50,4 +71,4 @@ Hébergeur : OVH – www.ovh.fr</p>
 <p> Loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique.</p>
 <h3>11. Lexique.</h3>
 <p>Utilisateur : Internaute se connectant, utilisant le site susnommé.</p>
-<p> Informations personnelles : « les informations qui permettent, sous quelque forme que ce soit, directement ou non, l'identification des personnes physiques auxquelles elles s'appliquent » (article 4 de la loi n° 78-17 du 6 janvier 1978).</p>
+<p> Informations personnelles : « les informations qui permettent, sous quelque forme que ce soit, directement ou non, l'identification des personnes physiques auxquelles elles s'appliquent » (article 4 de la loi n° 78-17 du 6 janvier 1978).</p><?php }} ?>

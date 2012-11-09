@@ -1,25 +1,25 @@
-<?php /* Smarty version Smarty-3.1.7, created on 2012-05-02 16:51:29
+<?php /* Smarty version Smarty-3.1.7, created on 2012-11-09 09:37:34
          compiled from "templates/connexion.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:15774635974fa149f1e1ec50-98074976%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:1090870679509cbecc07d820-02483456%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '3fa98a1f48b7c10f871aa889e62689a20ee7d974' => 
     array (
       0 => 'templates/connexion.tpl',
-      1 => 1335965894,
+      1 => 1352450247,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '15774635974fa149f1e1ec50-98074976',
+  'nocache_hash' => '1090870679509cbecc07d820-02483456',
   'function' => 
   array (
   ),
-  'has_nocache_code' => false,
   'version' => 'Smarty-3.1.7',
-  'unifunc' => 'content_4fa149f1e89b2',
+  'unifunc' => 'content_509cbecc098cc',
+  'has_nocache_code' => false,
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_4fa149f1e89b2')) {function content_4fa149f1e89b2($_smarty_tpl) {?>﻿<!-- David Winckel et François Ripp -->
+<?php if ($_valid && !is_callable('content_509cbecc098cc')) {function content_509cbecc098cc($_smarty_tpl) {?>﻿<!-- David Winckel et François Ripp -->
 
 
 <script type="text/javascript">
@@ -101,17 +101,6 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 
             <td>
                 <a href="?Page=inscription">Inscription</a>
-            </td>
-            <td>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                Mot de passe perdu
-            </td>
-
-            <td>
-                <a href="?Page=perdu">Récupérer mon mot de passe</a>
             </td>
             <td>
             </td>

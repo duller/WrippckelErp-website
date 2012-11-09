@@ -35,20 +35,23 @@ input
 
 a:link
 {
-	color:#F00;
+	color:#000;
 	text-decoration: none;
+        font-weight: bold;
 }
 
 a:hover
 {
-        color:#F00;
+        color:#000;
         text-decoration: none;
+        font-weight: normal;
 }
 
 a:visited
 {
-	color:#F00;
+	color:#000;
 	text-decoration: none;	
+        font-weight: bold;
 }
 
 p

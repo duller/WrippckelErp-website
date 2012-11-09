@@ -1,7 +1,4 @@
 <!-- David WINCKEL & François Ripp-->
-
-<h1>Authentification</h1>
-
 {if $connexion eq "connexionreussi"}
 <p>Connexion en cours...</p>
 
@@ -40,7 +37,7 @@ setTimeout ("redirection()", 3000 );
 {literal}
 function redirection()
 {
-    document.location.href="?Page=connexion"
+    document.location.href="?Page=accueil"
 }
 </script>
 {/literal}
